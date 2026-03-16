@@ -34,6 +34,7 @@ math:
 * :(fab fa-google): **[Google Analytics](https://analytics.google.com/analytics)** supported
 * :(far fa-chart-bar): **[Fathom Analytics](https://usefathom.com/)** supported
 * :(fas fa-chart-column): **[Plausible Analytics](https://plausible.io/)** supported
+* :(fas fa-chart-pie): **[Umami Analytics](https://umami.is/)** supported
 * :(fab fa-yandex-international): **[Yandex Metrica](https://metrica.yandex.com/)** supported
 * :(fas fa-sitemap): Search engine **verification** supported (Google, Bind, Yandex and Baidu)
 * :(fas fa-tachometer-alt): **CDN** for third-party libraries supported

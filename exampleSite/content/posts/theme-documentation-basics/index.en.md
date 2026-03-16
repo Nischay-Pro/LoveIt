@@ -743,6 +743,10 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # Plausible Analytics
     [params.analytics.plausible]
       dataDomain = ""
+    # Umami Analytics
+    [params.analytics.umami]
+      dataWebsiteId = ""
+      src = ""
     # Yandex Metrica
     [params.analytics.yandexMetrica]
       id = ""

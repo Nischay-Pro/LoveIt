@@ -34,6 +34,7 @@ math:
 * :(fab fa-google): 支持 **[Google Analytics](https://analytics.google.com/analytics)**
 * :(far fa-chart-bar): 支持 **[Fathom Analytics](https://usefathom.com/)**
 * :(fas fa-chart-column): 支持 **[Plausible Analytics](https://plausible.io/)**
+* :(fas fa-chart-pie): 支持 **[Umami Analytics](https://umami.is/)**
 * :(fab fa-yandex-international): 支持 **[Yandex Metrica](https://metrica.yandex.com/)**
 * :(fas fa-sitemap): 支持搜索引擎的**网站验证** (Google, Bind, Yandex 和 Baidu)
 * :(fas fa-tachometer-alt): 支持所有第三方库的 **CDN**
